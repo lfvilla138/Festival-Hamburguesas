@@ -36,8 +36,8 @@ Para la gestión del proyecto se utilizó una metodología ágil apoyada en Trel
 
 ## Integrantes
 
-- [Tu nombre]
-- [Compañeros del equipo]
+- Luis Fernando Villa Cardona
+
 
 ## Estado del Proyecto
 
